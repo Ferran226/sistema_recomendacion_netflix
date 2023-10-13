@@ -28,9 +28,7 @@ Este sistema se basa en la idea de ayudarte a encontrar nuevas películas y seri
 
 Asegúrate de que el archivo 'netflixData.csv' esté en la misma ubicación que este programa. Si no, asegúrate de que el nombre del archivo sea correcto en el código. ¡Es la llave mágica que me permite encontrar tus recomendaciones!
 
-## Detalles Técnicos 👨‍💻
-
-Este programa utiliza la biblioteca tkinter para crear una interfaz de usuario amigable y pandas para gestionar y buscar en el conjunto de datos de Netflix. Aquí tienes una muestra de cómo se ve el código:
+Aquí tienes una muestra de cómo se ve el código:
 
 ![archivo csv](archivocsv.png)
 
