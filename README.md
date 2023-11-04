@@ -34,7 +34,7 @@ Here's a glimpse of what the code looks like:
 
 ## Acknowledgment and Support 🙌
 
-
+---
 
 # 🇪🇸 Sistema de Recomendación de Netflix 🍿
 
