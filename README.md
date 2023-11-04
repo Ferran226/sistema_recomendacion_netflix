@@ -30,7 +30,7 @@ Make sure the 'netflixData.csv' file is in the same location as this program. If
 
 Here's a glimpse of what the code looks like:
 
-![csv file](csvfile.png)
+![csv file](archivocsv.png)
 
 ## Acknowledgment and Support 🙌
 
